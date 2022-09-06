@@ -4,7 +4,7 @@
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
-	<a href="https://qtile.org"><img src="https://img.shields.io/badge/DE-Qtile-eba0ac?style=flat&logo=python&logoColor=white" /></a>
+	<a href="https://http://www.qtile.org/"><img src="https://img.shields.io/badge/DE-Qtile-eba0ac?style=flat&logo=python&logoColor=white" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=flat&logo=python&logoColor=yellow" /></a>
 	<br />
