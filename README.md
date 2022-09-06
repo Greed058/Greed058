@@ -12,7 +12,7 @@
 	<a href="https://discord.gg/byBddBd57U"><img src="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord" /></a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=Greed058&theme=radical&hide_title=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Greed058&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greed058&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 </div>
 
