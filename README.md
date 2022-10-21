@@ -8,7 +8,7 @@
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=flat&logo=python&logoColor=yellow" /></a>
 	<br />
-	<a href="https://github.com/Greed058"><img src="https://img.shields.io/github/stars/Greed058?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://github.com/Greed058"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="https://discord.gg/byBddBd57U"><img src="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord" /></a>
 	<br />
 	<br />
