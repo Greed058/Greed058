@@ -15,7 +15,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRR3ED&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 </div>
 
-Contact me on:
+<h2>Contact me on:</h2>
 
 <div align="center">
 <a href="https://github.com/GRR3ED"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
