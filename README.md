@@ -18,10 +18,10 @@
 Contact me on:
 
 <div align="center">
-<a href="https://instagram.com/iamnotdeexeet"><img src ="https://img.shields.io/badge/Instagram-iamnotdeexeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a>
-<a href="https://github.com/GRR3ED"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a>
-<a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/GRR3ED"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
+<a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a><br>
+<a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a><br>
+<a href="https://instagram.com/iamnotdeexeet"><img src ="https://img.shields.io/badge/Instagram-iamnotdeexeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
 	
 </div>
 
