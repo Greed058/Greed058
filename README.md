@@ -15,9 +15,10 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRR3ED&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 </div>
 
-<h2>Contact me on:</h2>
+
 
 <div align="center">
+	<h2>Contact me on:</h2>
 <a href="https://github.com/GRR3ED"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
 <a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a><br>
 <a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a><br>
