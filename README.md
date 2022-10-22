@@ -9,8 +9,6 @@
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=flat&logo=python&logoColor=yellow" /></a>
 	<a><img src=https://komarev.com/ghpvc/?username=GRR3ED&color=red&label=👀+VIEWS></a>
 	<br />
-	<a href="https://github.com/Greed058"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
-	<a href="https://discord.gg/byBddBd57U"><img src="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord" /></a>
 	<br />
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=GRR3ED&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
@@ -18,8 +16,14 @@
 </div>
 
 Contact me on:
-	<a href=><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter">
 
+<div align="center">
+<a href="https://instagram.com/iamnotdeexeet"><img src ="https://img.shields.io/badge/Instagram-iamnotdeexeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a>
+<a href="https://github.com/GRR3ED"><img src="https://img.shields.io/github/stars/GRR3ED?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a>
+<a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a>
+	
+</div>
 
 <details>
 	<summary>Projects</summary>
