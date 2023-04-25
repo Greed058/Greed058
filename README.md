@@ -1,4 +1,10 @@
-## <p align="center"> Hi! I'm [Greed](https://github.com/greeid) 🤓 !
+<style>
+h1, h2 {
+  border-bottom: none;
+}
+</style>
+
+# <p align="center"> Hi! I'm [Greed](https://github.com/greeid) 🤓 !
 
 <p align="center">Creating bugs more than solution
 
@@ -7,9 +13,10 @@
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=for-the-badge&logo=arch-linux" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=for-the-badge&logo=neovim" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=for-the-badge&logo=python&logoColor=yellow" /></a>
+<a><img src="https://komarev.com/ghpvc/?username=greeid&color=red&style=for-the-badge&label=👀+STALKERS"
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=58597122&style=for-the-badge&label=STALKERS)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=58597122&style=for-the-badge&label=STALKERS) -->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=greeid&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" /></p>
@@ -18,12 +25,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeid&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
 </p>
 
----
-
 ### 🛠 Languages and tools I use :
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,7 +42,7 @@
 
 ---
 
-### :pager: Contact me on:</h2>
+### :pager: Contact me on:
 
 <div align="center">
 <a href="https://github.com/greeid"><img src="https://img.shields.io/github/stars/greeid?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
@@ -47,9 +51,7 @@
 
 </div>
 
----
-
-## :computer: Projects
+### :computer: Projects
 
 <details>
 	<ul>
