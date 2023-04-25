@@ -1,9 +1,3 @@
-<style>
-h1, h2 {
-  border-bottom: none;
-}
-</style>
-
 # <p align="center"> Hi! I'm [Greed](https://github.com/greeid) 🤓 !
 
 <p align="center">Creating bugs more than solution
@@ -25,7 +19,7 @@ h1, h2 {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeid&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
 </p>
 
-### 🛠 Languages and tools I use :
+## 🛠 Languages and tools I use :
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -40,9 +34,7 @@ h1, h2 {
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </p>
 
----
-
-### :pager: Contact me on:
+## :pager: Contact me on:
 
 <div align="center">
 <a href="https://github.com/greeid"><img src="https://img.shields.io/github/stars/greeid?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
@@ -51,7 +43,7 @@ h1, h2 {
 
 </div>
 
-### :computer: Projects
+## :computer: Projects
 
 <details>
 	<ul>
