@@ -1,4 +1,4 @@
-# <p align="center"> Hi! I'm [Greed](https://github.com/greeid) 🤓 !
+# <p align="center"> Hi! I'm [greeid](https://github.com/greeid) 🤓 !
 
 <p align="center">Creating bugs more than solution
 
