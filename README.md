@@ -1,4 +1,4 @@
-# <p align="center"> Hi! I'm [greeid](https://github.com/greeid) 🤓 !
+# <p align="center"> Hi! I'm [greed-d](https://github.com/greed-d) 🤓 !
 
 <p align="center">Creating bugs more than solution
 
@@ -7,16 +7,16 @@
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=for-the-badge&logo=arch-linux" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=for-the-badge&logo=neovim" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=for-the-badge&logo=python&logoColor=yellow" /></a>
-<a><img src="https://komarev.com/ghpvc/?username=greeid&color=red&style=for-the-badge&label=👀+STALKERS"
+<a><img src="https://komarev.com/ghpvc/?username=greed-d&color=red&style=for-the-badge&label=👀+STALKERS"
 </p>
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=58597122&style=for-the-badge&label=STALKERS) -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=greeid&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=greed-d&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeid&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greed-d&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
 </p>
 
 ## 🛠 Languages and tools I use :
@@ -37,7 +37,7 @@
 ## :pager: Contact me on:
 
 <div align="center">
-<a href="https://github.com/greeid"><img src="https://img.shields.io/github/stars/greeid?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
+<a href="https://github.com/greed-d"><img src="https://img.shields.io/github/stars/greed-d?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
 <a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a><br>
 <a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a><br>
 
@@ -47,7 +47,7 @@
 
 <details>
 	<ul>
-		<li><a href="https://github.com/greeid/.dotfiles">dotfiles</a> - Arch Linux config files</li>
-		<li><a href="https://github.com/greeid/Omni8-Bot">Omni8</a> - Discord utility bot</li>
+		<li><a href="https://github.com/greed-d/.dotfiles">dotfiles</a> - Arch Linux config files</li>
+		<li><a href="https://github.com/greed-d/Omni8-Bot">Omni8</a> - Discord utility bot</li>
 	</ul>
 </details>
