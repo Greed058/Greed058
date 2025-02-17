@@ -1,53 +1,24 @@
-# <p align="center"> Hi! I'm [greed-d](https://github.com/greed-d) 🤓 !
+# 💫 About Me:
+Hi, I'm greed, a python enthusiast from Nepal
 
-<p align="center">Creating bugs more than solution
 
-<p align="center">
-<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=for-the-badge&logo=gnu" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=for-the-badge&logo=arch-linux" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=for-the-badge&logo=neovim" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG-Python-f2cdcd?style=for-the-badge&logo=python&logoColor=yellow" /></a>
-<a><img src="https://komarev.com/ghpvc/?username=greed-d&color=red&style=for-the-badge&label=👀+STALKERS"
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=greed-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=greed-d&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=greed-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=58597122&style=for-the-badge&label=STALKERS) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=greed-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=greed-d&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greed-d&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=greed-d&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🛠 Languages and tools I use :
+---
+[![](https://visitcount.itsvg.in/api?id=greed-d&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</p>
-
-## :pager: Contact me on:
-
-<div align="center">
-<a href="https://github.com/greed-d"><img src="https://img.shields.io/github/stars/greed-d?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github"></a><br>
-<a href="https://discord.gg/byBddBd57U"><img src ="https://img.shields.io/discord/856018962231197726?color=74c7ec&label=DISCORD&logo=discord&style=for-the-badge"></a><br>
-<a href="https://twitter.com/iamnotdeexeet"><img src="https://img.shields.io/badge/Twitter-iamnotdeexeet-blueviolet?style=for-the-badge&logo=twitter"></a><br>
-
-</div>
-
-## :computer: Projects
-
-<details>
-	<ul>
-		<li><a href="https://github.com/greed-d/.dotfiles">dotfiles</a> - Arch Linux config files</li>
-		<li><a href="https://github.com/greed-d/Omni8-Bot">Omni8</a> - Discord utility bot</li>
-	</ul>
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
